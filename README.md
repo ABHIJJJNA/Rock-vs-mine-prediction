@@ -1,0 +1,1 @@
+In this project, I built a system in Python that can predict whether an object is either Rock or Mine with SONAR Data. For this use case, I used Logistic Regression Model for the prediction and Python Programming is done on Google Colaboratory
